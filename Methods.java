@@ -3,7 +3,7 @@ class Computer{
         System.out.println("Playing Music...");
     }
 
-    public String getMeAPen(int cost){
+    public Strings getMeAPen(int cost){
         if (cost >= 10){
             return "Pen";
         }else{
@@ -13,12 +13,12 @@ class Computer{
 }
 
 public class Methods {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
 
         Computer obj = new Computer();
         obj.playMusic();
         
-        String str = obj.getMeAPen(9);
+        Strings str = obj.getMeAPen(9);
         System.out.println(str);
     }
 }

@@ -1,12 +1,12 @@
 public class DataTypes {
-    public static void main (String[] args){
+    public static void main (Strings[] args){
         byte by = 127;
         short sh = 598;
         int num = 7;
         float py = 3.14f;
         double py1 = 3.149876;
         char c = 'a';
-        String name = "Hari";
+        Strings name = "Hari";
         boolean bool = true;
 
         System.out.println(by);

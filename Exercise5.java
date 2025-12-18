@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class Exercise5 {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner input = new Scanner(System.in);
-        String again = "y";
+        Strings again = "y";
 
         while(again.equalsIgnoreCase("y")){
             System.out.print("Enter first number: ");

@@ -1,5 +1,5 @@
 public class IfElse {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int x = 7;
 
         if (x % 2 == 0){

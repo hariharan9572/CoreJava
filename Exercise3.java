@@ -1,5 +1,5 @@
 public class Exercise3 {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
        
         int score = 75;
         char grade = 'B';
